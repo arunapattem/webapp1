@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
 	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
+		
 		<sonar.host.url>http://http://54.165.243.14:9000//</sonar.host.url>
 
 	</properties>
