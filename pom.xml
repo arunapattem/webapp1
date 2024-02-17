@@ -21,7 +21,7 @@
 		    <url>http://34.204.80.227:8081/repository/arunasnapshot/</url>
 		 </snapshotRepository>
 		
-		<Repository>
+		<repository>
 		    <id>nexusRepo</id>
 		    <url>http://34.204.80.227:8081/repository/arunarelease/</url>
 		</repository>
