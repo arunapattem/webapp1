@@ -18,12 +18,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-snapshots/</url>
+		    <url>http://34.204.80.227:8081/repository/arunasnapshot/</url>
 		 </snapshotRepository>
 		
-		<repository>
+		<releaseRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-release/</url>
+		    <url>http://34.204.80.227:8081/repository/arunarelease/</url>
 		</repository>
   	</distributionManagement>
 	
