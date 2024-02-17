@@ -13,19 +13,17 @@
 		<sonar.host.url>http://http://54.165.243.14:9000//</sonar.host.url>
 
 	</properties>
-
-
-	<distributionManagement>
+           <distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
+		    <id>nexusrepo</id>
 		    <url>http://34.204.80.227:8081/repository/arunasnapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>nexusrepo</id>
 		    <url>http://34.204.80.227:8081/repository/arunarelease/</url>
 		</repository>
-  	</distributionManagement>
+  	  </distributionManagement>
 	
     
     <build>
